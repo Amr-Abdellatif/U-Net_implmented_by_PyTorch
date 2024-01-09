@@ -129,9 +129,7 @@ Project structured as follows:
 
 `data/` directory contains the data you're going to train on. `train/` contains images and `train_mask/` contains masks for the images. `manual_test/` and `manual_test_mask/` are optional directories for showcasing the inference.
 
-### Pre-Trained Model <a class="anchor" id="ptm"></a>
 
-You can download a sample pre-trained model from [here](https://drive.google.com/file/d/1evei4cZkBlpoq70iapItN1ojldIXSOc2/view?usp=sharing). Put the model into the `models/` directory.
 
 ### Inference <a class="anchor" id="inference"></a>
 
